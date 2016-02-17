@@ -1,3 +1,10 @@
 .panel-body {
   background-color: red;
 }
+.col-xs-4 {
+  background-color: green;
+  margin-bottom: 20px;
+}
+.navbar-default  {
+  background-color: blue;
+}
